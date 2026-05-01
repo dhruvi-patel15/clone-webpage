@@ -256,32 +256,6 @@ ul a{
    
    padding-top: 5px;
 }
-@media (max-width: 768px) {
-
-    .navbar {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .navsearch {
-        width: 90%;
-        margin: 10px 0;
-    }
-
-    .panel-ops {
-        display: none;  /* optional (clean look) */
-    }
-
-    .shop-section {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .box {
-        width: 90%;   /* ek line ma ek box */
-        margin-bottom: 15px;
-    }
-}
 
 
 
