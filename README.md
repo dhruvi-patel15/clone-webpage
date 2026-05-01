@@ -25,11 +25,11 @@ The main purpose of this project is to improve my web development skills as a be
 
 # 📷 Output
 
-![Amazon Clone](webpage.png)
+![webpage](webpage.png)
 
 # 🔗 Live Demo
 
  https://dhruvi-patel15.github.io/clone-webpage/
- 
+
 # 👩‍💻 Author
     patel Dhruvi 
