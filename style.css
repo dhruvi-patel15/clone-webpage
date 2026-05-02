@@ -124,7 +124,7 @@ span {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .panel-ops p {
     display: inline;
@@ -255,6 +255,7 @@ ul a{
    
    padding-top: 5px;
 }
+
 
 
 
